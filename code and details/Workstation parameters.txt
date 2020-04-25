@@ -1,0 +1,17 @@
+
+Workstation parameters for neural network training：
+
+GPU：GV-100 32GB *2
+Tf-version：'1.13.0-rc2' cpu&gpu-version
+CUDNN:#define CUDNN_MAJOR 7
+CUDA:CUDA Version 10.0.130
+Python 3.6.5 |Anaconda, Inc.| (default, Apr 29 2018, 16:14:56) 
+[GCC 7.2.0] on linux
+
+
+Precision-7920-Tower:~$ lsb_release -a
+No LSB modules are available.
+Distributor ID:	Ubuntu
+Description:	Ubuntu 18.04.1 LTS
+Release:	18.04
+Codename:	bionic

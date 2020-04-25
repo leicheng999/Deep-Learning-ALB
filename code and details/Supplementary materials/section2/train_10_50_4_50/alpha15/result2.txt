@@ -1,0 +1,287 @@
+0.15
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+hello2! we now begin step2!222222222
+It: 0, Loss: 3.133e+00, Time: 0.45
+It: 1000, Loss: 4.163e-01, Time: 20.99
+It: 2000, Loss: 4.044e-01, Time: 21.49
+It: 3000, Loss: 3.758e-01, Time: 21.52
+It: 4000, Loss: 3.712e-01, Time: 21.55
+It: 5000, Loss: 3.740e-01, Time: 21.53
+It: 6000, Loss: 3.700e-01, Time: 21.50
+It: 7000, Loss: 3.676e-01, Time: 21.45
+It: 8000, Loss: 3.545e-01, Time: 21.43
+It: 9000, Loss: 3.458e-01, Time: 21.46
+It: 10000, Loss: 3.496e-01, Time: 21.51
+It: 11000, Loss: 3.364e-01, Time: 21.54
+It: 12000, Loss: 3.293e-01, Time: 21.55
+It: 13000, Loss: 3.227e-01, Time: 21.53
+It: 14000, Loss: 3.119e-01, Time: 21.46
+It: 15000, Loss: 2.967e-01, Time: 21.53
+It: 16000, Loss: 2.879e-01, Time: 21.67
+It: 17000, Loss: 2.750e-01, Time: 21.56
+It: 18000, Loss: 2.672e-01, Time: 21.49
+It: 19000, Loss: 2.613e-01, Time: 21.49
+It: 20000, Loss: 2.470e-01, Time: 21.46
+It: 21000, Loss: 2.319e-01, Time: 21.50
+It: 22000, Loss: 2.694e-01, Time: 21.50
+It: 23000, Loss: 2.530e-01, Time: 21.57
+It: 24000, Loss: 2.391e-01, Time: 21.50
+It: 25000, Loss: 2.514e-01, Time: 21.46
+It: 26000, Loss: 2.192e-01, Time: 21.51
+It: 27000, Loss: 2.661e-01, Time: 21.47
+It: 28000, Loss: 2.789e-01, Time: 21.55
+It: 29000, Loss: 2.193e-01, Time: 21.54
+It: 30000, Loss: 2.540e-01, Time: 21.49
+It: 31000, Loss: 2.651e-01, Time: 21.48
+It: 32000, Loss: 2.149e-01, Time: 21.53
+It: 33000, Loss: 2.184e-01, Time: 21.51
+It: 34000, Loss: 1.903e-01, Time: 21.54
+It: 35000, Loss: 1.790e-01, Time: 21.49
+It: 36000, Loss: 1.819e-01, Time: 21.46
+It: 37000, Loss: 1.750e-01, Time: 21.45
+It: 38000, Loss: 2.277e-01, Time: 21.53
+It: 39000, Loss: 2.150e-01, Time: 21.46
+It: 40000, Loss: 2.468e-01, Time: 21.50
+It: 41000, Loss: 1.649e-01, Time: 21.55
+It: 42000, Loss: 1.649e-01, Time: 21.54
+It: 43000, Loss: 1.701e-01, Time: 21.46
+It: 44000, Loss: 1.803e-01, Time: 21.49
+It: 45000, Loss: 1.577e-01, Time: 21.56
+It: 46000, Loss: 1.940e-01, Time: 21.54
+It: 47000, Loss: 2.147e-01, Time: 21.52
+It: 48000, Loss: 1.758e-01, Time: 21.56
+It: 49000, Loss: 1.457e-01, Time: 21.54
+It: 50000, Loss: 1.514e-01, Time: 21.51
+It: 51000, Loss: 1.502e-01, Time: 21.56
+It: 52000, Loss: 1.806e-01, Time: 21.46
+It: 53000, Loss: 2.049e-01, Time: 21.47
+It: 54000, Loss: 1.543e-01, Time: 21.55
+It: 55000, Loss: 1.766e-01, Time: 21.55
+It: 56000, Loss: 1.986e-01, Time: 21.55
+It: 57000, Loss: 1.404e-01, Time: 21.45
+It: 58000, Loss: 1.803e-01, Time: 21.45
+It: 59000, Loss: 1.508e-01, Time: 21.45
+It: 60000, Loss: 1.396e-01, Time: 21.50
+It: 61000, Loss: 1.766e-01, Time: 21.53
+It: 62000, Loss: 1.500e-01, Time: 21.51
+It: 63000, Loss: 1.502e-01, Time: 21.66
+It: 64000, Loss: 1.584e-01, Time: 21.58
+It: 65000, Loss: 1.498e-01, Time: 21.53
+It: 66000, Loss: 1.947e-01, Time: 21.50
+It: 67000, Loss: 1.692e-01, Time: 21.51
+It: 68000, Loss: 1.464e-01, Time: 21.46
+It: 69000, Loss: 1.579e-01, Time: 21.45
+It: 70000, Loss: 1.407e-01, Time: 21.46
+It: 71000, Loss: 1.312e-01, Time: 21.48
+It: 72000, Loss: 1.674e-01, Time: 21.48
+It: 73000, Loss: 1.394e-01, Time: 21.46
+It: 74000, Loss: 1.268e-01, Time: 21.57
+It: 75000, Loss: 1.387e-01, Time: 21.56
+It: 76000, Loss: 1.520e-01, Time: 21.56
+It: 77000, Loss: 1.204e-01, Time: 21.53
+It: 78000, Loss: 1.252e-01, Time: 21.53
+It: 79000, Loss: 1.312e-01, Time: 21.48
+It: 80000, Loss: 1.135e-01, Time: 21.47
+It: 81000, Loss: 1.310e-01, Time: 21.54
+It: 82000, Loss: 1.443e-01, Time: 21.64
+It: 83000, Loss: 1.349e-01, Time: 21.65
+It: 84000, Loss: 1.250e-01, Time: 21.68
+It: 85000, Loss: 1.312e-01, Time: 21.54
+It: 86000, Loss: 9.492e-02, Time: 21.56
+It: 87000, Loss: 1.177e-01, Time: 21.55
+It: 88000, Loss: 1.280e-01, Time: 21.57
+It: 89000, Loss: 1.281e-01, Time: 21.50
+It: 90000, Loss: 1.489e-01, Time: 21.53
+It: 91000, Loss: 1.200e-01, Time: 21.55
+It: 92000, Loss: 1.247e-01, Time: 21.57
+It: 93000, Loss: 1.767e-01, Time: 21.55
+It: 94000, Loss: 1.816e-01, Time: 21.55
+It: 95000, Loss: 1.063e-01, Time: 21.59
+It: 96000, Loss: 1.041e-01, Time: 21.52
+It: 97000, Loss: 1.059e-01, Time: 21.51
+It: 98000, Loss: 1.058e-01, Time: 21.48
+It: 99000, Loss: 9.960e-02, Time: 21.54
+hello2! we now begin step2!!!!50%
+Loss: 1.002850e-01
+Loss: 1.588867e+01
+Loss: 1.689081e+01
+Loss: 9.365664e+00
+Loss: 8.202064e+00
+Loss: 4.874057e+00
+Loss: 8.405476e-01
+Loss: 2.175827e-01
+Loss: 7.079162e-02
+Loss: 6.775798e-02
+Loss: 6.589711e-02
+Loss: 6.528343e-02
+Loss: 6.501722e-02
+Loss: 6.501908e-02
+Loss: 6.500155e-02
+Loss: 6.499981e-02
+Loss: 6.499884e-02
+Loss: 6.498976e-02
+Loss: 6.497461e-02
+Loss: 6.494468e-02
+Loss: 6.490390e-02
+Loss: 6.485876e-02
+Loss: 6.482417e-02
+Loss: 6.480556e-02
+Loss: 6.479708e-02
+Loss: 6.478520e-02
+Loss: 6.478280e-02
+Loss: 6.478207e-02
+Loss: 6.478111e-02
+Loss: 6.477843e-02
+Loss: 6.477263e-02
+Loss: 6.476168e-02
+Loss: 6.474850e-02
+Loss: 6.474008e-02
+Loss: 6.473754e-02
+Loss: 6.473711e-02
+Loss: 6.473637e-02
+Loss: 6.473439e-02
+Loss: 6.472936e-02
+Loss: 6.471699e-02
+Loss: 6.469095e-02
+Loss: 6.464937e-02
+Loss: 6.460819e-02
+Loss: 6.459373e-02
+Loss: 6.459214e-02
+Loss: 6.459200e-02
+Loss: 6.459185e-02
+Loss: 6.459057e-02
+Loss: 6.458820e-02
+Loss: 6.458347e-02
+Loss: 6.457677e-02
+Loss: 6.457017e-02
+Loss: 6.456596e-02
+Loss: 6.456231e-02
+Loss: 6.455558e-02
+Loss: 6.454353e-02
+Loss: 6.452813e-02
+Loss: 6.451838e-02
+Loss: 6.451618e-02
+Loss: 6.451576e-02
+Loss: 6.451543e-02
+Loss: 6.451463e-02
+Loss: 6.451271e-02
+Loss: 6.450821e-02
+Loss: 6.450073e-02
+Loss: 6.449062e-02
+Loss: 6.448141e-02
+Loss: 6.450809e-02
+Loss: 6.448078e-02
+Loss: 6.447959e-02
+Loss: 6.447951e-02
+Loss: 6.447951e-02
+Loss: 6.447949e-02
+Loss: 6.447948e-02
+Loss: 6.447946e-02
+Loss: 6.447936e-02
+Loss: 6.447907e-02
+Loss: 6.447841e-02
+Loss: 6.447799e-02
+Loss: 6.447560e-02
+Loss: 6.447200e-02
+Loss: 6.446789e-02
+Loss: 6.446541e-02
+Loss: 6.446464e-02
+Loss: 6.446425e-02
+Loss: 6.446411e-02
+Loss: 6.446379e-02
+Loss: 6.446359e-02
+Loss: 6.446350e-02
+Loss: 6.446347e-02
+Loss: 6.446338e-02
+Loss: 6.446323e-02
+Loss: 6.446285e-02
+Loss: 6.446185e-02
+Loss: 6.445926e-02
+Loss: 6.445360e-02
+Loss: 6.444342e-02
+Loss: 6.453419e-02
+Loss: 6.444173e-02
+Loss: 6.443195e-02
+Loss: 6.444202e-02
+Loss: 6.442782e-02
+Loss: 6.442515e-02
+Loss: 6.442460e-02
+Loss: 6.442451e-02
+Loss: 6.442378e-02
+Loss: 6.442243e-02
+Loss: 6.441888e-02
+Loss: 6.441215e-02
+Loss: 6.440306e-02
+Loss: 6.439663e-02
+Loss: 6.439463e-02
+Loss: 6.439442e-02
+Loss: 6.439437e-02
+Loss: 6.439416e-02
+Loss: 6.439384e-02
+Loss: 6.439333e-02
+Loss: 6.439254e-02
+Loss: 6.439120e-02
+Loss: 6.438719e-02
+Loss: 6.437951e-02
+Loss: 6.436254e-02
+Loss: 6.437296e-02
+Loss: 6.435782e-02
+Loss: 6.434201e-02
+Loss: 6.433664e-02
+Loss: 6.433588e-02
+Loss: 6.433649e-02
+Loss: 6.433581e-02
+Loss: 6.433586e-02
+Loss: 6.433573e-02
+Loss: 6.433573e-02
+Loss: 6.433578e-02
+Loss: 6.433571e-02
+Loss: 6.433515e-02
+Loss: 6.433419e-02
+Loss: 6.433135e-02
+Loss: 6.432552e-02
+Loss: 6.431422e-02
+Loss: 6.430017e-02
+Loss: 6.731027e-02
+Loss: 6.429981e-02
+Loss: 6.429145e-02
+Loss: 6.428954e-02
+Loss: 6.428927e-02
+Loss: 6.428922e-02
+Loss: 6.428915e-02
+Loss: 6.428902e-02
+Loss: 6.429093e-02
+Loss: 6.428893e-02
+Loss: 6.428858e-02
+Loss: 6.428721e-02
+Loss: 6.428385e-02
+Loss: 6.427619e-02
+Loss: 6.426221e-02
+Loss: 6.424587e-02
+Loss: 6.423620e-02
+Loss: 6.423406e-02
+Loss: 6.423402e-02
+Loss: 6.423392e-02
+Loss: 6.423411e-02
+Loss: 6.423394e-02
+Loss: 6.423402e-02
+Loss: 6.423400e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+Loss: 6.423392e-02
+hello2! we now begin step2!!!!100%
+goodbye2! we have finished step2!222222222
